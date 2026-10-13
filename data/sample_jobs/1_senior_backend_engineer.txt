@@ -1,0 +1,23 @@
+Title: Senior Backend Engineer, Orbitline
+
+About the role
+Orbitline builds the routing platform behind regional delivery fleets. You will own backend services that process millions of events a day.
+
+Responsibilities
+- Design, build, and operate Python services and REST APIs with FastAPI or Django.
+- Model data in PostgreSQL and use Redis for caching.
+- Containerise services with Docker and deploy them on AWS using CI/CD pipelines.
+- Write automated tests with pytest and take part in code reviews.
+- Work in an Agile team and join the on-call rotation.
+
+Requirements
+- 4+ years of backend development with Python.
+- Strong SQL and PostgreSQL skills, including query optimization.
+- Experience with Docker, AWS, and Git.
+- Experience building microservices and message-driven systems with Kafka or RabbitMQ.
+- Comfortable with Linux and monitoring services in production.
+
+Nice to have
+- Kubernetes and Terraform
+- GraphQL
+- Experience with distributed systems

@@ -1,0 +1,29 @@
+Priya Nair
+Backend Software Engineer | Bengaluru, India | priya.nair@example.com
+
+SUMMARY
+Backend engineer with 4 years of experience building and operating Python web services and REST APIs for a B2B logistics platform.
+
+SKILLS
+Languages: Python, SQL, Bash, JavaScript
+Frameworks: Django, Django REST Framework, Flask, Celery
+Data: PostgreSQL, Redis, MySQL
+Cloud and tooling: AWS (EC2, S3, CloudWatch), Docker, GitHub Actions, Linux, Git
+Practices: pytest, unit testing, code reviews, Agile, CI/CD
+
+EXPERIENCE
+Software Engineer, Tradewind Logistics (2022 - present)
+- Built and maintained 18 REST APIs in Django REST Framework serving about 40,000 daily requests.
+- Reduced slow PostgreSQL queries by 55% through indexing and query tuning on the shipment-tracking service.
+- Introduced Redis caching for rate lookups, cutting median API latency from 420 ms to 190 ms.
+- Containerised three services with Docker and automated test and deploy steps with GitHub Actions.
+- Wrote pytest suites that raised coverage on the billing module from 48% to 82%.
+- Participated in on-call rotation and code reviews for a team of six engineers.
+
+Junior Developer, Cartwheel Software (2020 - 2022)
+- Developed Flask services and Celery background jobs for invoice generation.
+- Helped migrate a MySQL database to PostgreSQL with no recorded downtime.
+- Worked on bug fixes and small features across the customer dashboard.
+
+EDUCATION
+B.E. Computer Science, Visvesvaraya Technological University, 2020

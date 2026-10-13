@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest>=8.3
+
+# Only needed to regenerate the PDF sample in data/sample_resumes/upload_examples
+reportlab>=4.2

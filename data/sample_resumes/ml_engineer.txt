@@ -1,0 +1,26 @@
+Jordan Lee
+Machine Learning Engineer | Toronto, Canada | jordan.lee@example.com
+
+SUMMARY
+Machine learning engineer with 3 years of experience training and deploying NLP and tabular models, from experiment to production API.
+
+SKILLS
+Python, SQL, Bash
+PyTorch, scikit-learn, Hugging Face Transformers, pandas, NumPy, XGBoost
+NLP, deep learning, feature engineering, model deployment, MLflow
+Docker, FastAPI, AWS (S3, EC2, SageMaker), Git, Linux, GitHub Actions
+
+EXPERIENCE
+Machine Learning Engineer, Lanternfish Health (2023 - present)
+- Fine-tuned a Hugging Face transformer for clinical note classification, improving F1 from 0.71 to 0.84.
+- Built a FastAPI service in Docker that serves the model on AWS with p95 latency under 120 ms.
+- Tracked 60+ experiments in MLflow and set up a reproducible training pipeline with GitHub Actions.
+- Designed feature pipelines in pandas and SQL for a readmission-risk model used by two clinical teams.
+
+Data Scientist, Quillbird Analytics (2021 - 2023)
+- Trained XGBoost and scikit-learn models for customer churn, reaching an AUC of 0.88.
+- Worked on data cleaning and exploratory analysis for a retail forecasting project.
+- Wrote unit tests with pytest for the feature engineering package.
+
+EDUCATION
+M.Sc. Computer Science (Machine Learning), University of Waterloo, 2021

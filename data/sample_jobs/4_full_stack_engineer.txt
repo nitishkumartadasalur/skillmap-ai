@@ -1,0 +1,22 @@
+Title: Full-Stack Engineer, Lumen Harbor
+
+About the role
+Lumen Harbor makes scheduling software for clinics. You will ship features end to end across our web app and APIs.
+
+Responsibilities
+- Build responsive interfaces with React and TypeScript.
+- Create REST APIs in Node.js and manage data in PostgreSQL.
+- Write unit and integration tests with Jest and Cypress.
+- Review code, improve performance, and keep the app accessible.
+
+Requirements
+- 3+ years of full-stack development.
+- Strong JavaScript, TypeScript, HTML, and CSS.
+- Experience with React and Node.js.
+- Familiarity with SQL databases, Git, and CI/CD.
+
+Nice to have
+- Next.js
+- GraphQL
+- AWS
+- Docker

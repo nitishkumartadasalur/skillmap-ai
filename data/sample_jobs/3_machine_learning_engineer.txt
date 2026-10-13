@@ -1,0 +1,22 @@
+Title: Machine Learning Engineer, Kestrel AI
+
+About the role
+Kestrel AI builds language models for customer support teams. You will take models from research to production and keep them healthy once they are live.
+
+Responsibilities
+- Train, evaluate, and fine-tune NLP models with PyTorch and Hugging Face.
+- Build and deploy model-serving APIs in Python and Docker.
+- Own MLOps workflows: experiment tracking with MLflow, automated training pipelines, and monitoring.
+- Collaborate with product and data teams on feature engineering and evaluation.
+
+Requirements
+- 3+ years of machine learning experience with Python.
+- Solid knowledge of deep learning, NLP, and scikit-learn.
+- Experience deploying models on AWS or another cloud platform.
+- Familiarity with SQL, Git, and CI/CD.
+
+Nice to have
+- Kubernetes
+- Apache Spark
+- Experience with LLMs, RAG, or LangChain
+- TensorFlow

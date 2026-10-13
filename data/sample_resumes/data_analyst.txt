@@ -1,0 +1,29 @@
+Alex Rivera
+Data Analyst | Austin, TX | alex.rivera@example.com
+
+PROFILE
+Data analyst with 3 years of experience turning marketing and product data into dashboards and recommendations for non-technical stakeholders.
+
+SKILLS
+SQL, Python (pandas, NumPy, matplotlib), Tableau, Excel (pivot tables, VLOOKUP), Google Analytics
+Statistics, A/B testing, hypothesis testing, data cleaning, data visualization
+Git, Jira, Agile
+
+EXPERIENCE
+Data Analyst, Brightpath Retail (2023 - present)
+- Built 12 Tableau dashboards used weekly by the marketing and merchandising teams.
+- Wrote SQL queries against a PostgreSQL warehouse to analyse 3 million order records per quarter.
+- Designed and analysed 9 A/B tests on checkout flow; one change lifted conversion by 4.2%.
+- Automated a weekly Excel report in Python and pandas, saving about 6 hours of manual work each week.
+- Presented findings to senior stakeholders and agreed priorities with product managers.
+
+Junior Analyst, Summit Insurance (2021 - 2023)
+- Cleaned and joined policy and claims data from three sources for monthly reporting.
+- Responsible for maintaining the KPI workbook used by the claims team.
+- Created charts and summaries for quarterly business reviews.
+
+EDUCATION
+B.S. Statistics, University of Texas at Austin, 2021
+
+CERTIFICATIONS
+Google Data Analytics Certificate

@@ -1,0 +1,21 @@
+Title: DevOps Engineer, Cloudmere
+
+About the role
+Cloudmere runs the infrastructure for several SaaS products. You will make deployments boring and reliable.
+
+Responsibilities
+- Manage infrastructure on AWS using Terraform and Infrastructure as Code practices.
+- Operate Kubernetes clusters and package services with Docker and Helm.
+- Build and maintain CI/CD pipelines in GitHub Actions or Jenkins.
+- Improve observability with Prometheus and Grafana, and respond to incidents.
+
+Requirements
+- 3+ years in DevOps, SRE, or platform engineering.
+- Hands-on experience with Kubernetes, Docker, and Terraform.
+- Strong Linux and Bash skills; scripting in Python.
+- Experience with AWS or another cloud provider.
+
+Nice to have
+- Ansible
+- ArgoCD
+- Experience with Datadog or OpenTelemetry

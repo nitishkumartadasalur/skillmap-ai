@@ -1,0 +1,13 @@
+# SkillMap AI runtime dependencies.
+#
+# Lower bounds are chosen so that, on Python 3.14, pip picks releases that
+# publish Python 3.14 wheels. They are minimums, not pins: the resolver is free
+# to choose newer versions. See README.md ("Python 3.14 compatibility") for what
+# has and has not been verified.
+streamlit>=1.50
+pandas>=2.3.3
+numpy>=2.3.2
+scikit-learn>=1.7.2
+plotly>=6.0
+pypdf>=5.0
+python-docx>=1.1

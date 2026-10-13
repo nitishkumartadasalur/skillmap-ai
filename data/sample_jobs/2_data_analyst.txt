@@ -1,0 +1,22 @@
+Title: Data Analyst, Brightwave Analytics
+
+About the role
+Brightwave helps subscription businesses understand customer behaviour. As a data analyst you will turn product and revenue data into clear answers for our clients.
+
+Responsibilities
+- Write SQL to query and analyse large datasets.
+- Build dashboards in Power BI or Tableau and present insights to stakeholders.
+- Design and evaluate A/B tests and report results with sound statistical analysis.
+- Clean and prepare data with Python (pandas) and Excel.
+
+Requirements
+- 2+ years in an analytics role.
+- Advanced SQL and strong data visualization skills.
+- Working knowledge of Python and statistics, including hypothesis testing.
+- Experience with Tableau or Power BI.
+- Clear communication with non-technical audiences.
+
+Nice to have
+- dbt and Snowflake
+- Airflow
+- Experience with Google Analytics
